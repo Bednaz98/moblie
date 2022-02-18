@@ -1,0 +1,8 @@
+
+
+
+
+interface LogHandlerInterface{
+    Login()
+    LogOut()
+}
