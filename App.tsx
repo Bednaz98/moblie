@@ -18,8 +18,6 @@ export default function App() {
       flexDirection:"column",
       backgroundColor: 'white',
       alignContent:"space-around",
-      
-      
     },
   });
 
